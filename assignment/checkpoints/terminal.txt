@@ -12,12 +12,12 @@
   # I would expect nothing when running the ls command on an empty folder
   # I would expect the console to list all of the directories(folders) in said folder
 # 6 - What is a quick way to create a new file?
-  # touch new_file.txt (depending on what kind of file you want to make it could be .js or .html)
+  # touch new_file.txt (depending on what kind of file you want to make it could be .js or .html ...etc)
 # 7 - Run '$ git --version' in your terminal. What is the output?
   # git version 2.24.3 (Apple Git-128)
 # 8 - Why would you run the command 'git status'?
-  # To check if the files in the current directory have been changed since their last push.
+  # To check if the files in the current directory have been changed/edited since their last push.
 # 9 - What does the command 'git add .' do?
-  # It adds all of the files in the current directory into the corresponding git repository.
+  # It stages a commit of all files in the current directory into the corresponding git repository.
 # 10 - What is the command to push your committed changes to your repo on GitHub?
   # $ git push origin master
